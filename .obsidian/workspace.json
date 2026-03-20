@@ -11,14 +11,10 @@
             "id": "62b8768e8ed7615f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS-Playwright/Раздел 1 - TypeScript Programing/1. README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. README"
+              "title": "New tab"
             }
           }
         ]
@@ -183,8 +179,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "62b8768e8ed7615f",
+  "active": "7c195fba50237800",
   "lastOpenFiles": [
+    "Untitled.md",
     "README.md",
     "TS-Playwright/Локаторы в Playwright.md",
     "TS-Playwright/1.README.md",

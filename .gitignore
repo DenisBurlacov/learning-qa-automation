@@ -1,0 +1,11 @@
+.DS_Store
+.Trashes
+.Spotlight-V100
+
+# Obsidian cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/graph.json
+
+# Если используешь плагины, где могут быть токены — добавим точечно позже при необходимости
