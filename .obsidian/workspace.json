@@ -11,10 +11,14 @@
             "id": "62b8768e8ed7615f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TS-Playwright/Part_1 - TypeScript Programing/1. README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. README"
             }
           }
         ]
@@ -179,10 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "7c195fba50237800",
+  "active": "62b8768e8ed7615f",
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/08.2 Functions JS  Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/08.1 Functions JS.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/1. README.md",
+    "Untitled.md",
     "TS-Playwright/Локаторы в Playwright.md",
     "TS-Playwright/1.README.md",
     "TS-Playwright/Команды после скачивания с гита.md",
@@ -203,7 +210,6 @@
     "TS-Playwright/Раздел 3 - Playwright E2E/21. Locating Elements using XPath, Operators and Functions.md",
     "TS-Playwright/Раздел 3 - Playwright E2E/20. Locating Elements using CSS Locators.md",
     "TS-Playwright/Раздел 3 - Playwright E2E/19. Understanding Playwright Locators (Built-in).md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/18. Playwright Kick Start.md",
-    "TS-Playwright/Раздел 1 - TypeScript Programing/1. README.md"
+    "TS-Playwright/Раздел 3 - Playwright E2E/18. Playwright Kick Start.md"
   ]
 }
