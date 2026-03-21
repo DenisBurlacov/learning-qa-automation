@@ -1,11 +1,69 @@
+# ─────────────────────────────────────────────
+# Claude / AI instructions (not for repo)
+# ─────────────────────────────────────────────
+CLAUDE.md
+
+# ─────────────────────────────────────────────
+# macOS
+# ─────────────────────────────────────────────
 .DS_Store
 .Trashes
 .Spotlight-V100
+.AppleDouble
+.LSOverride
 
-# Obsidian cache
+# ─────────────────────────────────────────────
+# Obsidian — workspace & cache (не коммитим)
+# ─────────────────────────────────────────────
+
+# Состояние рабочей области — у каждого своё
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/cache/
+
+# Кэш — пересоздаётся автоматически
+.obsidian/cache
 .obsidian/graph.json
 
-# Если используешь плагины, где могут быть токены — добавим точечно позже при необходимости
+# Данные плагинов с локальными настройками
+.obsidian/plugins/templater-obsidian/data.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/dataview/
+
+# Горячие клавиши — у каждого свои
+.obsidian/hotkeys.json
+
+# ─────────────────────────────────────────────
+# Obsidian — коммитим (нужны для синхронизации)
+# ─────────────────────────────────────────────
+# app.json, appearance.json, core-plugins.json,
+# community-plugins.json, snippets/ — включены в git
+
+# ─────────────────────────────────────────────
+# Node / TypeScript
+# ─────────────────────────────────────────────
+node_modules/
+dist/
+build/
+*.js.map
+
+# ─────────────────────────────────────────────
+# Environment & secrets
+# ─────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ─────────────────────────────────────────────
+# Playwright
+# ─────────────────────────────────────────────
+test-results/
+playwright-report/
+playwright/.cache/
+
+# ─────────────────────────────────────────────
+# Editors
+# ─────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo

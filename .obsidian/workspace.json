@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS-Playwright/Part_1 - TypeScript Programing/05.0 Loops.md",
+                "file": "TS-Playwright/Part_1 - TypeScript Programing/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.0 Loops"
+              "title": "README"
             }
           }
         ]
@@ -185,31 +185,31 @@
   },
   "active": "62b8768e8ed7615f",
   "lastOpenFiles": [
-    "TS-Playwright/Part_1 - TypeScript Programing/08.2 Functions JS  Practice.md",
-    "TS-Playwright/Part_1 - TypeScript Programing/3.0 Variables.md",
-    "TS-Playwright/Part_1 - TypeScript Programing/10.0 Modules Import Export.md",
-    "TS-Playwright/Part_1 - TypeScript Programing/1. README.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/11.0 Classes OOP Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/11. Classes OOP.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/10.0 Objects Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/10. Objects.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/9.0 Interfaces Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/9. Interfaces.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/8.0 Modules Import Export Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/8. Modules Import Export.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/7.0 Async Await Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/7. Async Await.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/6.0 Functions Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/6. Functions.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/5.0 Strings Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/4.0 Arrays Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/4. Arrays.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/3.0 Loops Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/2.0 Data Types Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/2. Data Types.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/1.0 Variables Practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/1. Variables.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/3. Loops.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/README.md",
     "README.md",
-    "TS-Playwright/Part_1 - TypeScript Programing/08.1 Functions JS.md",
-    "Untitled.md",
-    "TS-Playwright/Локаторы в Playwright.md",
-    "TS-Playwright/1.README.md",
-    "TS-Playwright/Команды после скачивания с гита.md",
-    "TS-Playwright/Xpath.md",
-    "TS-Playwright/Selectors CCS.md",
-    "TS-Playwright/Раздел 4 - Playwright Advanced/34. Auto Waiting, Timeouts, Assertions and Codegen.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/23. Playwright Actions - Input Box, Checkbox & Radio Buttons.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/22. Locating Complex Elements using XPath Axes.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/24. Handle Dropdowns - Part 1.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/25. Handle Dropdowns - Part 2.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/26. Handle Static Web Table in Playwright.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/27. Handle Dynamic & Pagination Tables.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/28. Handling Date Pickers.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/29. Handling Dialogs and Frames IFrames.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/30. Playwright Browser Context, Tabs & Popup Windows.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/31. Handling Mouse Actions and Scrolling.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/32. Keyboard Actions, File Upload & Download.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/21. Locating Elements using XPath, Operators and Functions.md",
-    "TS-Playwright/Раздел 3 - Playwright E2E/20. Locating Elements using CSS Locators.md"
+    "CLAUDE.md",
+    "PROJECT_CONTEXT.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/5. Strings and Methods.md"
   ]
 }
