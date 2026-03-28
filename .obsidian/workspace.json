@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS-Playwright/Part_2 Playwright E2E/26. Handle static web tables.md",
+                "file": "TS-Playwright/Part_2 Playwright E2E/27.1 Handle dynamic web tables practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26. Handle static web tables"
+              "title": "27.1 Handle dynamic web tables practice"
             }
           }
         ]
@@ -185,12 +185,14 @@
   },
   "active": "62b8768e8ed7615f",
   "lastOpenFiles": [
-    "TS-Playwright/Part_1 - TypeScript Programing/10.0 Objects Practice.md",
+    "TS-Playwright/Part_2 Playwright E2E/27. Handle dynamic web tables.md",
+    "TS-Playwright/Part_2 Playwright E2E/27.1 Handle dynamic web tables practice.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/README.md",
     "TS-Playwright/Part_2 Playwright E2E/26. Handle static web tables.md",
+    "TS-Playwright/Part_1 - TypeScript Programing/10.0 Objects Practice.md",
     "TS-Playwright/Part_2 Playwright E2E/26.1 Handle static web tables Practice.md",
     "TS-Playwright/Part_1 - TypeScript Programing/3. Loops.md",
     "TS-Playwright/Part_2 Playwright E2E",
-    "TS-Playwright/Part_1 - TypeScript Programing/README.md",
     "TS-Playwright/Part_1 - TypeScript Programing/11.0 Classes OOP Practice.md",
     "TS-Playwright/Part_1 - TypeScript Programing/11. Classes OOP.md",
     "TS-Playwright/Part_1 - TypeScript Programing/10. Objects.md",
@@ -209,8 +211,6 @@
     "TS-Playwright/Part_1 - TypeScript Programing/2.0 Data Types Practice.md",
     "TS-Playwright/Part_1 - TypeScript Programing/2. Data Types.md",
     "TS-Playwright/Part_1 - TypeScript Programing/1.0 Variables Practice.md",
-    "TS-Playwright/Part_1 - TypeScript Programing/1. Variables.md",
-    "README.md",
-    "CLAUDE.md"
+    "TS-Playwright/Part_1 - TypeScript Programing/1. Variables.md"
   ]
 }
